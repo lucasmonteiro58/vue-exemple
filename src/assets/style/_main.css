@@ -1,0 +1,8 @@
+@font-face {
+  font-family: MavenPro;
+  src: url("../fonts/MavenPro.ttf");
+}
+
+* {
+  font-family: MavenPro;
+}
